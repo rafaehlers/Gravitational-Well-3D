@@ -1,0 +1,5 @@
+{
+  "name": "Gravitational Well 3D",
+  "description": "A 3D visualization of spacetime curvature using a deformable cubic grid and a central mass.",
+  "requestFramePermissions": []
+}
