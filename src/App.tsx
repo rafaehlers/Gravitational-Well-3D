@@ -340,8 +340,8 @@ const gridFragmentShader = /* glsl */`
   varying float vDist;
   uniform float uAlpha;
   void main() {
-    // Base de cor estilo imagem (cinza-azulado claro)
-    vec3 base = vec3(0.92, 0.95, 0.98);
+    // Vibrant Cyan (R: 0.0, G: 0.8, B: 1.0) for a technological and futuristic look
+    vec3 base = vec3(0.0, 0.8, 1.0);
     // Leve escurecimento com a distância ao centro para sugerir profundidade
     float shade = 1.0 - smoothstep(0.0, 80.0, vDist) * 0.15;
     gl_FragColor = vec4(base * shade, uAlpha);
