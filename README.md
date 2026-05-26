@@ -1,5 +1,4 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 
 # Gravitational Well 3D
 
@@ -19,22 +18,9 @@ In our universe, spacetime isn't a sheet; it's a volumetric fabric that exists i
 
 ### The "Flat" Misconception
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="gravity-picture.webp" alt="2D Spacetime Analogy" width="100%" /><br/>
-      <sub><i>Common 2D representation</i></sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="GettyImages-1046128816.webp" alt="Orbital Visualization" width="100%" /><br/>
-      <sub><i>Planar orbit focus</i></sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="gravitywell-1WEB.jpg" alt="Gravity Well" width="100%" /><br/>
-      <sub><i>The "downward" well trap</i></sub>
-    </td>
-  </tr>
-</table>
+| ![2D Spacetime Analogy](./gravity-picture.webp) | ![Orbital Visualization](./GettyImages-1046128816.webp) | ![Gravity Well](./gravitywell-1WEB.jpg) |
+| :---: | :---: | :---: |
+| *Common 2D representation* | *Planar orbit focus* | *The "downward" well trap* |
 
 All three of these images share the same flaw: they collapse a three-dimensional phenomenon onto a single plane, biasing intuition toward thinking gravity "pulls down" into a hole.
 
