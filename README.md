@@ -19,9 +19,9 @@ In our universe, spacetime isn't a sheet; it's a volumetric fabric that exists i
 ### The "Flat" Misconception
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rafaehlers/Gravitational-Well-3D/main/gravity-picture.webp" alt="2D Spacetime Analogy" width="32%" />
-  <img src="https://raw.githubusercontent.com/rafaehlers/Gravitational-Well-3D/main/GettyImages-1046128816.webp" alt="Orbital Visualization" width="32%" />
-  <img src="https://raw.githubusercontent.com/rafaehlers/Gravitational-Well-3D/main/gravitywell-1WEB.jpg" alt="Gravity Well" width="32%" />
+  <img src="image-1.png" alt="2D Spacetime Analogy" width="32%" />
+  <img src="image-2.png" alt="Orbital Visualization" width="32%" />
+  <img src="image-3.png" alt="Gravity Well" width="32%" />
 </p>
 <p align="center">
   <sub><i>Common 2D representation&nbsp;&nbsp;·&nbsp;&nbsp;Planar orbit focus&nbsp;&nbsp;·&nbsp;&nbsp;The "downward" well trap</i></sub>

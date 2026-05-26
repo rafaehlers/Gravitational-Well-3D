@@ -10,9 +10,9 @@ import { OrbitControls } from "three/examples/jsm/controls/OrbitControls.js";
 import { Info, X } from "lucide-react";
 
 // Import local images
-import gravityPicture from "../gravity-picture.webp";
-import gettyImages from "../GettyImages-1046128816.webp";
-import gravityWell1 from "../gravitywell-1WEB.jpg";
+import gravityPicture from "../image-1.png";
+import gettyImages from "../image-2.png";
+import gravityWell1 from "../image-3.png";
 
 const AboutModal = ({ isOpen, onClose }: { isOpen: boolean; onClose: () => void }) => {
   if (!isOpen) return null;
