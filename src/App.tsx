@@ -18,7 +18,7 @@ const AboutModal = ({ isOpen, onClose }: { isOpen: boolean; onClose: () => void 
   if (!isOpen) return null;
   return createPortal(
     <div className="fixed inset-0 z-[10000] flex items-center justify-center p-4 md:p-8 bg-black/60 backdrop-blur-sm">
-      <div className="relative w-full max-w-2xl max-h-[80vh] bg-neutral-900 border border-white/10 rounded-3xl shadow-2xl flex flex-col overflow-hidden">
+      <div className="relative w-full max-w-4xl max-h-[92vh] bg-neutral-900 border border-white/10 rounded-3xl shadow-2xl flex flex-col overflow-hidden">
         <div className="p-6 border-b border-white/10 flex justify-between items-center bg-white/5">
           <h2 className="text-lg font-light tracking-tight text-white/90">About this Project</h2>
           <button onClick={onClose} className="p-2 hover:bg-white/10 rounded-full transition-colors">
